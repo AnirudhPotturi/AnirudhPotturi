@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirudh
-- 👀 I’m interested in simulations.
-- 🌱 I’m currently learning a lot of things. Web development is one of them.  
+- 👀 I’m interested in perfroming simulations.
+- 🌱 I’m currently learning about Docker.  
 - 💞️ I’d like to develop an interactive portfolio website.
 
 <!---
