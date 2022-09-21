@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirudh
 - 👀 I’m interested in perfroming simulations.
-- 🌱 I’m currently learning about Docker.  
+- 🌱 Let's talk about DHCP!  
 
 <!---
 AnirudhPotturi/AnirudhPotturi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
