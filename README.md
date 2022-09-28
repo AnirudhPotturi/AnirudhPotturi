@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anirudh
-- 👀 I’m interested in perfroming simulations.
+- 👀 I’m interested in perfroming scientific simulations with parallel computing.
 - 🌱 Let's talk about DHCP!  
 
 <!---
