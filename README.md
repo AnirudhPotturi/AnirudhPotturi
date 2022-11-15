@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirudh
 - 👀 I’m interested in perfroming scientific simulations with parallel computing.
-- 🌱 Let's talk about DHCP!  
+- 🌱 Let's talk about Agent Based Computing!  
 
 <!---
 AnirudhPotturi/AnirudhPotturi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
