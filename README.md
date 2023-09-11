@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anirudh
-- 👀 I’m interested in perfroming scientific simulations with parallel computing.
+- 👀 I’m interested in performing scientific simulations with parallel computing.
 - 🌱 Let's talk about Agent Based Computing!  
 
 <!---
