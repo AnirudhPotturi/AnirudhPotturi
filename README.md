@@ -1,4 +1,5 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - 👋 Hi, I’m Anirudh
 - 👀 I’m interested in performing scientific simulations with parallel computing.
 - 🌱 Let's talk about Agent Based Computing!  
