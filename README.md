@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m Anirudh
+- 👋 Hi, I’m Anirudh Potturi
 - 👀 I’m interested in performing scientific simulations with parallel computing.
-- 🌱 Let's talk about Agent Based Computing!  
+- 🌱 I have conducted research in the field of Agent-Based Computing aka Agent-Based Modelling.   
 
 ### Technologies I have tinkered around with
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
