@@ -3,6 +3,11 @@
 - 👀 I’m interested in performing scientific simulations with parallel computing.
 - 🌱 I have conducted research in the field of Agent-Based Computing aka Agent-Based Modelling.   
 
+
+![Anirudh Potturi Github Stats](https://github-readme-stats.vercel.app/api?username=AnirudhPotturi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+
 ### Technologies I have tinkered around with
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
