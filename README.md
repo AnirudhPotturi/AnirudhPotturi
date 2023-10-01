@@ -9,6 +9,8 @@
   <img src="https://profile-counter.glitch.me/AnirudhPotturi/count.svg" />
 </p>
 
+[![Visits Badge](https://badges.pufler.dev/visits/AnirudhPotturi/badge-it)](https://badges.pufler.dev)
+
 
 ![Anirudh Potturi Github Stats](https://github-readme-stats.vercel.app/api?username=AnirudhPotturi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000")
 
