@@ -4,9 +4,7 @@
 - 🌱 I have conducted research in the field of Agent-Based Computing aka Agent-Based Modelling.   
 
 
-![Anirudh Potturi Github Stats](https://github-readme-stats.vercel.app/api?username=AnirudhPotturi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhPotturi)](https://github.com/anuraghazra/github-readme-stats)
+![Anirudh Potturi Github Stats](https://github-readme-stats.vercel.app/api?username=AnirudhPotturi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000")
 
 
 ### Technologies I have tinkered around with
