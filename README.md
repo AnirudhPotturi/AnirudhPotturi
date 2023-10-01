@@ -4,12 +4,8 @@
 - 🌱 I have conducted research in the field of Agent-Based Computing aka Agent-Based Modelling.   
 
 
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AnirudhPotturi/count.svg" />
-</p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/AnirudhPotturi/badge-it)](https://badges.pufler.dev)
+
 
 
 ![Anirudh Potturi Github Stats](https://github-readme-stats.vercel.app/api?username=AnirudhPotturi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000")
@@ -42,6 +38,11 @@
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></code>
 
+
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AnirudhPotturi/count.svg" />
+</p>
 <!---
 AnirudhPotturi/AnirudhPotturi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
