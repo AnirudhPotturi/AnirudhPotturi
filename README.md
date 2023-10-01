@@ -4,6 +4,12 @@
 - 🌱 I have conducted research in the field of Agent-Based Computing aka Agent-Based Modelling.   
 
 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AnirudhPotturi/count.svg" />
+</p>
+
+
 ![Anirudh Potturi Github Stats](https://github-readme-stats.vercel.app/api?username=AnirudhPotturi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000")
 
 
