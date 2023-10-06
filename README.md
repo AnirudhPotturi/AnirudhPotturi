@@ -1,3 +1,4 @@
+![alt text](Banner.JPG)
 
 - 👋 Hi, I’m Anirudh Potturi
 - 👀 I’m interested in performing scientific simulations with parallel computing.
