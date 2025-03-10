@@ -18,8 +18,7 @@ I'm a Researcher and a Software Engineer
 
 
 
-
-![Anirudh Potturi Github Stats](https://github-readme-stats.vercel.app/api?username=AnirudhPotturi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000")
+![Anirudh Potturi Github Stats](https://komarev.com/ghpvc/?username=AnirudhPotturi&color=blue)
 
 
 ### Technologies I have tinkered around with
