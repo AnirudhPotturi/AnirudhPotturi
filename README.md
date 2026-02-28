@@ -49,11 +49,6 @@ I'm a Researcher and a Software Engineer
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></code>
 
 
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AnirudhPotturi/count.svg" />
-</p>
-
 Website weather update
 [![Weather](https://github.com/AnirudhPotturi/anirudhpotturi.github.io/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/AnirudhPotturi/anirudhpotturi.github.io/actions/workflows/main.yml)
 <!---
